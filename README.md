@@ -1,4 +1,8 @@
 # admob_in_list
+![mockup](https://github.com/recepozturk53/admob_in_list/blob/master/gifs/adbanner.gif)
+
+Feel free to make stabile this dirty code
+How to show admob in listview?Check this code.
 
 A new Flutter project.
 
